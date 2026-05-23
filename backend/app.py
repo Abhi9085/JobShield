@@ -19,7 +19,7 @@ def create_app():
 
     # Initialize Extensions
     db.init_app(app)
-    cors.init_app(app)
+    cors.init_app(app, resources={r"/*": {"origins": ["https://jobshield-backend-yk7z.onrender.com/"]}})
 
     # Register Route Blueprints
     app.register_blueprint(auth_bp)
