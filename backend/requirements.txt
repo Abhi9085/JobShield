@@ -1,4 +1,5 @@
-﻿absl-py==2.3.0
+python-dotenv
+absl-py==2.3.0
 accelerate==1.12.0
 altair==6.0.0
 annotated-doc==0.0.4
