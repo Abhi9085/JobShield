@@ -1,0 +1,5 @@
+.env
+nodemode_modules/
+dist/
+*.log
+_pycache_/
