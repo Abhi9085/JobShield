@@ -23,7 +23,8 @@ The system provides real-time predictions through a React-based web interface, d
 ---
 
 ## 🖥️ Screenshots
-![JobShield Home Feed](screenshots/home-feed.png)
+![JobShield Home Feed](screenshort/DarkTheme.png)
+![JobShield Home Feed](screenshort/LightTheme.png)
 
 The application includes the following interfaces:
 
