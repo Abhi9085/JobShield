@@ -23,6 +23,7 @@ The system provides real-time predictions through a React-based web interface, d
 ---
 
 ## 🖥️ Screenshots
+![JobShiels Home Feed](Screenshot 2026-11-25 232401.png)
 
 The application includes the following interfaces:
 
